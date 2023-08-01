@@ -1,0 +1,16 @@
+{
+    "files.associations": {
+        "array": "c",
+        "string_view": "c",
+        "initializer_list": "c",
+        "ranges": "c",
+        "utility": "c",
+        "stdbool.h": "c",
+        "stdint.h": "c",
+        "ssd1351.h": "c",
+        "rfid.h": "c",
+        "defines.h": "c",
+        "i2c.h": "c",
+        "random": "c"
+    }
+}

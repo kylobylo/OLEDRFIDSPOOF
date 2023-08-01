@@ -1,0 +1,3 @@
+/home/kyle/Documents/rasPi/OLED/build/pioasm/CMakeFiles/pioasm.dir
+/home/kyle/Documents/rasPi/OLED/build/pioasm/CMakeFiles/edit_cache.dir
+/home/kyle/Documents/rasPi/OLED/build/pioasm/CMakeFiles/rebuild_cache.dir
