@@ -11,6 +11,7 @@
         "rfid.h": "c",
         "defines.h": "c",
         "i2c.h": "c",
-        "random": "c"
+        "random": "c",
+        "cstring": "cpp"
     }
 }

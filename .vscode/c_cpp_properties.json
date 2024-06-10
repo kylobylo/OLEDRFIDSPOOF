@@ -4,8 +4,14 @@
             "name": "Linux",
             "includePath": [
                 "${workspaceFolder}/**",
-                "~/Documents/rasPi/pico-sdk",
-                "${workspaceFolder}/pico-sdk/"
+                "~/Documents/C/Pico/pico-sdk",
+                "${workspaceFolder}/pico-sdk/",
+                "/usr/include/x86_64-linux-gnu",
+                "${workspaceFolder}/pico-sdk/src/common/pico_stdlib/include",
+                "${workspaceFolder}/pico-sdk/src/rp2_common/hardware_i2c/include/",
+                "${workspaceFolder}/pico-sdk/src/common/pico_stdlib/include",
+                "${workspaceFolder}/pico-sdk/src/common/pico_stdlib/include/pico",
+                "${workspaceFolder}/pico-sdk/src/rp2_common/hardware_i2c/include"
             ],
             "defines": [],
             "compilerPath": "/usr/bin/gcc",
